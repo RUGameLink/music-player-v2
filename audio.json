@@ -1,0 +1,59 @@
+{
+    "songs": [
+      {
+        "title": "Katty Heath - My Good Place",
+        "audio": "audio/1.mp3",
+        "cover": "photos/1.jpg"
+      },
+      {
+        "title": "Notan Nigres - Time",
+        "audio": "audio/2.mp3",
+        "cover": "photos/2.png"
+      },
+      {
+        "title": "Peder B. Helland - Always",
+        "audio": "audio/3.mp3",
+        "cover": "photos/3.jpg"
+      },
+      {
+        "title": "Project Blue Sun - Back to Eternity",
+        "audio": "audio/4.mp3",
+        "cover": "photos/4.jpg"
+      },
+      {
+        "title": "Rautu - Mirror",
+        "audio": "audio/5.mp3",
+        "cover": "photos/5.jpg"
+      },
+      {
+        "title": "Rusez - Night",
+        "audio": "audio/6.mp3",
+        "cover": "photos/6.jpg"
+      },
+      {
+        "title": "Sorrow - Mourner VIP",
+        "audio": "audio/7.mp3",
+        "cover": "photos/7.jpg"
+      },
+      {
+        "title": "Tebra - Tmina",
+        "audio": "audio/8.mp3",
+        "cover": "photos/8.jpg"
+      },
+      {
+        "title": "Tomas Skyldeberg - A Sonic Boom",
+        "audio": "audio/9.mp3",
+        "cover": "photos/9.jpeg"
+      },
+      {
+        "title": "Vaeros - Your Feelings",
+        "audio": "audio/10.mp3",
+        "cover": "photos/10.jpg"
+      },
+      {
+        "title": "WAVE17 - Be Everywhere",
+        "audio": "audio/11.mp3",
+        "cover": "photos/11.jpg"
+      }
+    ]
+  }
